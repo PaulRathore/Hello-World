@@ -1,2 +1,3 @@
 # Hello-World-
-Simple Python project to print Hello World
+Simple Python project using  commmands  which  print  the statement  "Hello World"
+
